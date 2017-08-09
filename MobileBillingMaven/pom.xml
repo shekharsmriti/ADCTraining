@@ -8,7 +8,6 @@
   <name>MobileBillingMaven Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
-  
   <!-- WADL Dependency -->
 		<dependency>
 			<groupId>org.jvnet.ws.wadl</groupId>
@@ -39,6 +38,7 @@
 			<artifactId>spring-core</artifactId>
 			<version>4.1.4.RELEASE</version>
 		</dependency>
+
 		<!-- JPA -->
 
 		<dependency>
@@ -78,6 +78,9 @@
 			<scope>system</scope>
 			<systemPath>C:\oraclexe\app\oracle\product\11.2.0\server\jdbc\lib\ojdbc6.jar</systemPath>
 		</dependency>
+  
+  
+  
   
     <dependency>
       <groupId>junit</groupId>
